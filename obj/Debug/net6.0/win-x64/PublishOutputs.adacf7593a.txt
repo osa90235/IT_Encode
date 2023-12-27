@@ -1,0 +1,2 @@
+D:\Program\.net 6\Project\IT_Encode\bin\Debug\net6.0\win-x64\publish\IT_Encode.pdb
+D:\Program\.net 6\Project\IT_Encode\bin\Debug\net6.0\win-x64\publish\IT_Encode.exe
